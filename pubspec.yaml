@@ -13,7 +13,7 @@ dependencies:
   flutter_cache_manager:
     git:
       url: https://github.com/imenuo/flutter_cache_manager.git
-      ref: f4b9ba96ad3cf567c339598ec42190204ed6d88e
+      ref: 1d64fdf85595423fdd14511489285ab27e3a956e
 
 dev_dependencies:
   test: ^1.3.0
